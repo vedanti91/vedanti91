@@ -1,0 +1,3 @@
+- Hi! I am Vedanti
+- Here to improve my Java, Javascript, React and Python skills.
+- For any questions or suggestions, you can contact me on my email address - vedanti91@gmail.com
